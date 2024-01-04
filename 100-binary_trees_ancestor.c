@@ -1,3 +1,5 @@
+#include <stdlib.h>
+#include <stdio.h>
 #include "binary_trees.h"
 /**
  * binary_tree_depth - depth of node in a tree
